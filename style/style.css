@@ -83,7 +83,7 @@ a{
 }
 
 .section1-d1{
-    background-image: url("/image/6.jfif");
+    background-image: url("image/6.jfif");
     background-size: cover;
     border-radius: 20px;
     height: 80vh;
@@ -146,11 +146,11 @@ a{
 }
 
 .section1-d2 .d1{
-    background-image: url("/image/7.jpg");
+    background-image: url("image/7.jpg");
 }
 
 .d2{
-    background-image: url("/image/8.jfif");
+    background-image: url("image/8.jfif");
 }
 
 
@@ -193,7 +193,7 @@ a{
 }
 
 .section2-d1{
-    background-image: url("/image/4.jfif");
+    background-image: url("image/4.jfif");
     background-size: cover;
     border-radius: 20px;
     height: 80vh;
@@ -251,11 +251,11 @@ color: black;
 }
 
 .section2   .d2{
-    background-image: url("/image/3.jfif");
+    background-image: url("image/3.jfif");
 }
 
 .section2 .d3{
-    background-image: url("/image/1.jfif");
+    background-image: url("image/1.jfif");
 }
 
 
